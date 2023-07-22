@@ -712,3 +712,24 @@ hr {
     border-radius: 6px;
     padding: 3px 11px;
 }
+
+/* buttons for placement page */
+.butClick{
+    margin-right: -9px;
+    border: 1px solid #5236f4;
+    background: transparent;
+    color: #5236f4;
+    position: relative;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 9px 17px;
+    font-size: 13px;
+    background: transparent;
+    cursor: pointer;
+    text-shadow: 2px 2px 10px black;
+}
+
+
+li{
+    color: #999;
+}
